@@ -10,3 +10,5 @@ A BigQuery specific SQL query that shows the performance per campaign, for Campa
 
 ## Sample output 
 Here's a sample output from the query. Please note, all the data is synthetic/fake data and does not include real-world PII.
+
+[https://github.com/markurquhart/klaviyo-datasync-queries/blob/main/google-bigquery/campaign-performance/sample-query-results.png?raw=true]

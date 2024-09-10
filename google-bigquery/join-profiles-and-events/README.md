@@ -10,3 +10,5 @@ A BigQuery specific SQL query that shows how to join the events and profiles tab
 
 ## Sample output 
 Here's a sample output from the query. Please note, all the data is synthetic/fake data and does not include real-world PII.
+
+[https://github.com/markurquhart/klaviyo-datasync-queries/blob/main/google-bigquery/join-profiles-and-events/sample-query-results.png?raw=true]

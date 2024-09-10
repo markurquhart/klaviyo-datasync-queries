@@ -10,3 +10,5 @@ A BigQuery specific SQL query that shows the top spenders based on the Ordered P
 
 ## Sample output 
 Here's a sample output from the query. Please note, all the data is synthetic/fake data and does not include real-world PII.
+
+[https://github.com/markurquhart/klaviyo-datasync-queries/blob/main/google-bigquery/top-spenders/sample-query-results.png?raw=true]
